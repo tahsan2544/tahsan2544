@@ -18,10 +18,6 @@ A personal AI assistant that remembers who you are and adapts the voice it speak
 
 React · TypeScript · Vite · Tailwind CSS · Supabase · shadcn/ui
 
-## 📊 GitHub Stats
-
-![Tahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsan2544&show_icons=true&theme=radical)
-
 ## 📫 Find me
 
 - GitHub: [@tahsan2544](https://github.com/tahsan2544)
