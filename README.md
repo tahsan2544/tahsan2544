@@ -1,23 +1,44 @@
-# Hi, I'm Tahsan 👋
+# Hi, I'm Tahsan Ahmed 👋
 
-Student developer who loves building games and web apps.
+I'm a **Student, AI Developer, and Web Developer** from Bangladesh, passionate about building useful and creative digital products.
 
-## 🚀 Projects
+I enjoy working with **AI, modern web technologies, and developer tools** to turn ideas into real, working projects. I'm always experimenting with new technologies, learning new things, and improving my skills through hands-on projects.
 
-### [CoverVerse](https://coververse.lovable.app)
-Design assignment cover pages from 500+ templates, with AI-generated cover artwork, a live A4 preview, and one-click print-ready PDF or PNG export. Built with React, TypeScript, Tailwind CSS, and Supabase.
+### What I'm Interested In
 
-🔗 [Live demo](https://coververse.lovable.app) · [Source](https://github.com/tahsan2544/CoverVerse)
+* 🤖 Artificial Intelligence & AI-powered applications
+* 💻 Web development & modern web technologies
+* 🧠 AI-assisted development and new developer tools
+* 🚀 Building and experimenting with new ideas
+* 📚 Continuous learning and improvement
 
-### [fireside-ai](https://fireside-ai.lovable.app)
-A personal AI assistant that remembers who you are and adapts the voice it speaks in — with full visibility into what it remembers and what's stored about you. Built with React, TypeScript, and Supabase.
+### My Approach
 
-🔗 [Live demo](https://fireside-ai.lovable.app) · [Source](https://github.com/tahsan2544/fireside-ai)
+I believe the best way to learn is to **build, experiment, break things, fix them, and build again**.
 
-## 🛠️ Tech I use
+I'm constantly working on new ideas, so my repositories are where you'll find most of what I'm currently learning and creating.
 
-React · TypeScript · Vite · Tailwind CSS · Supabase · shadcn/ui
+### Explore My Work
 
-## 📫 Find me
+Want to see what I'm building?
 
-- GitHub: [@tahsan2544](https://github.com/tahsan2544)
+**Check out my repositories and explore my projects.**
+You might find something interesting — or something that's still a work in progress.
+
+> **Learn > Build > Experiment > Improve **
+
+---
+
+### Connect With Me
+
+I'm always open to connecting with other developers, creators, and people interested in **AI and technology**.
+
+* 💻 **GitHub:** [@tahsan2544](https://github.com/tahsan2544)
+* 🌐 **Portfolio:** [Your Portfolio](https://tahsan-portfolio.ai.studio/)
+* 📧 **Email:** [Your Email](mailto:tahsan25440.gmail.com)
+
+Feel free to reach out or check out my repositories to see what I'm building.
+
+
+**AI Developer • Web Developer • Student • Builder**
+
