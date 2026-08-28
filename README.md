@@ -35,7 +35,7 @@ I'm always open to connecting with other developers, creators, and people intere
 
 * 💻 **GitHub:** [@tahsan2544](https://github.com/tahsan2544)
 * 🌐 **Portfolio:** [click me](https://tahsan-portfolio.ai.studio/)
-* 📧 **Email:** [mailto:tahsan25440.gmail.com]
+* 📧 **Email:** [Mail To:tahsan25440.gmail.com]
 
 Feel free to reach out or check out my repositories to see what I'm building.
 
