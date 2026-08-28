@@ -33,11 +33,11 @@ You might find something interesting — or something that's still a work in pro
 
 I'm always open to connecting with other developers, creators, and people interested in **AI and technology**.
 
-* 💻 **GitHub:** [@tahsan2544](https://github.com/tahsan2544)
-* 🌐 **Portfolio:** [click me](https://tahsan-portfolio.ai.studio)
-* 📧 **Email:** [Mail To:tahsan25440.gmail.com]
-* 𝕏. **X:** [@Dark Knight2544](https://x.com/Dark_Knight2544)
-* 📸 **Instagram:** [@dark_knight1066](https://www.instagram.com)
+* 💻 **GitHub:**       [@tahsan2544](https://github.com/tahsan2544)
+* 🌐 **Portfolio:**    [click me](https://tahsan-portfolio.ai.studio)
+* 📧 **Email:**        [Mail To:tahsan25440.gmail.com]
+* 𝕏. **X:**            [@Dark Knight2544](https://x.com/Dark_Knight2544)
+* 📸 **Instagram:**    [@dark_knight1066](https://www.instagram.com/dark_Knight1066)
 
 Feel free to reach out or check out my repositories to see what I'm building.
 
