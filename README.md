@@ -1,48 +1,44 @@
 # Hi, I'm Tahsan Ahmed 👋
 
-I'm a **Student, AI Developer, and Web Developer** from Bangladesh, passionate about building useful and creative digital products.
+Student and AI/web developer from Bangladesh. I build small tools and full apps — CLI utilities, AI-powered web products, and things I need day to day. Most of what I'm learning shows up in my repositories.
 
-I enjoy working with **AI, modern web technologies, and developer tools** to turn ideas into real, working projects. I'm always experimenting with new technologies, learning new things, and improving my skills through hands-on projects.
+[![GitHub followers](https://img.shields.io/github/followers/tahsan2544?style=flat-square&label=followers)](https://github.com/tahsan2544)
+[![Portfolio](https://img.shields.io/badge/portfolio-tahsan--portfolio.ai.studio-0A0A0A?style=flat-square)](https://tahsan-portfolio.ai.studio)
 
-### What I'm Interested In
+## What I build
 
-* 🤖 Artificial Intelligence & AI-powered applications
-* 💻 Web development & modern web technologies
-* 🧠 AI-assisted development and new developer tools
-* 🚀 Building and experimenting with new ideas
-* 📚 Continuous learning and improvement
+- **Developer CLI tools** — website analysis, performance and security auditing
+- **AI web apps** — chat interfaces, study tools, generative features on real user data
+- **Student-facing products** — cover pages, planners, and other practical utilities
 
-### My Approach
+## Featured projects
 
-I believe the best way to learn is to **build, experiment, break things, fix them, and build again**.
+| Project | What it is |
+| --- | --- |
+| [CS-tool](https://github.com/tahsan2544/CS-tool) | 19-in-one website measurement & analysis toolkit (Python CLI) |
+| [Vitalyze](https://github.com/tahsan2544/Vitalyze) | CLI website performance & health analyzer — DNS, SSL, headers, SEO |
+| [WEBSEC](https://github.com/tahsan2544/WEBSEC) | Defensive website auditing with scored reports and upgrade plans |
+| [sparksage](https://github.com/tahsan2544/sparksage) | AI study companion — chat, quizzes and flashcards from your own notes |
+| [CoverVerse](https://github.com/tahsan2544/CoverVerse) | Print-ready assignment cover pages with live preview and PDF export |
+| [fireside-ai](https://github.com/tahsan2544/fireside-ai) | Minimalist AI companion chat with a shared Commons space |
 
-I'm constantly working on new ideas, so my repositories are where you'll find most of what I'm currently learning and creating.
+## Skills & interests
 
-### Explore My Work
+- **Languages & frameworks:** Python, JavaScript/TypeScript, React, Tailwind CSS
+- **Backend & data:** Supabase, REST APIs, SQLite/Postgres basics
+- **Interested in:** applied AI, developer tools, web security, learning-by-building
 
-Want to see what I'm building?
+> **Learn → Build → Experiment → Improve**
 
-**Check out my repositories and explore my projects.**
-You might find something interesting — or something that's still a work in progress.
+## Contact
 
-> **Learn > Build > Experiment > Improve **
+- 📧 **Email:** [tahsan25440@gmail.com](mailto:tahsan25440@gmail.com)
+- 🌐 **Portfolio:** [tahsan-portfolio.ai.studio](https://tahsan-portfolio.ai.studio)
+- 💻 **GitHub:** [@tahsan2544](https://github.com/tahsan2544)
+- 💼 **LinkedIn:** [Tahsan Ahmed](https://www.linkedin.com/in/tahsan-ahmed-a422b3432)
+- 𝕏 **X:** [@Dark Knight2544](https://x.com/Dark_Knight2544)
+- 📸 **Instagram:** [@dark_knight1066](https://www.instagram.com/dark_Knight1066)
 
----
-
-### Connect With Me
-
-I'm always open to connecting with other developers, creators, and people interested in **AI and technology**.
-
-* 💻 **GitHub     :**[@tahsan2544](https://github.com/tahsan2544)
-* 🌐 **Portfolio  :**[tahsan-portfolio](https://tahsan-portfolio.ai.studio)
-* 📧 **Email      :**[Mail To:tahsan25440.gmail.com]
-* 𝕏. **X          :**[@Dark Knight2544](https://x.com/Dark_Knight2544)
-* 📸 **Instagram  :**[@dark_knight1066](https://www.instagram.com/dark_Knight1066)
-* 💼 **LinkedIn   :** [Tahsan Ahmed](https://www.linkedin.com/in/tahsan-ahmed-a422b3432)
-
-
-Feel free to reach out or check out my repositories to see what I'm building.
-
+Open to connecting with other developers and anyone working on AI or developer tools.
 
 **AI Developer • Web Developer • Student • Builder**
-
