@@ -22,6 +22,31 @@ Student and AI/web developer from Bangladesh. I build small tools and full apps 
 | [CoverVerse](https://github.com/tahsan2544/CoverVerse) | Print-ready assignment cover pages with live preview and PDF export |
 | [fireside-ai](https://github.com/tahsan2544/fireside-ai) | Minimalist AI companion chat with a shared Commons space |
 
+## Repositories
+
+Everything I have pushed, sorted into two tracks.
+
+### Ethical hacking & security
+
+Auditing and hardening tools for sites you own or are authorised to test.
+
+| Repository | What it is | Stack |
+| --- | --- | --- |
+| [CS-tool](https://github.com/tahsan2544/CS-tool) | 19-tool website measurement & analysis CLI — SEO, security, performance, accessibility | Python |
+| [Vitalyze](https://github.com/tahsan2544/Vitalyze) | Website health scorer — DNS, SSL/TLS, security headers, SEO, capped load test | Python |
+| [WEBSEC](https://github.com/tahsan2544/WEBSEC) | Website & local-project security auditor — scorecards, upgrade plans, CI-friendly reports | Python |
+| [api-pass-manager](https://github.com/tahsan2544/api-pass-manager) | API credential manager — planned, not implemented yet | — |
+
+### Web & apps
+
+Browser-facing products, each with a live deployment.
+
+| Repository | What it is | Stack |
+| --- | --- | --- |
+| [sparksage](https://github.com/tahsan2544/sparksage) | AI study companion — notes, books and slides become quizzes and flashcards · [live](https://sparksage.lovable.app) | TypeScript |
+| [CoverVerse](https://github.com/tahsan2544/CoverVerse) | Assignment cover pages from 500+ templates with one-click PDF/PNG export · [live](https://coververse.lovable.app) | TypeScript |
+| [fireside-ai](https://github.com/tahsan2544/fireside-ai) | Calm 1:1 AI conversations with a shared Commons space · [live](https://fireside-ai.lovable.app) | TypeScript |
+
 ## Skills & interests
 
 - **Languages & frameworks:** Python, JavaScript/TypeScript, React, Tailwind CSS
